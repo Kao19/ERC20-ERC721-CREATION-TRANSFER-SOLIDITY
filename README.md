@@ -4,7 +4,7 @@ This project demonstrates a basic solidity project. It comes with smart contract
 
 Along side with their tests.
 
-And of course scripts to the contracts.
+And of course scripts to deploy the contracts.
 
 # Try running the following commands to run the project
 

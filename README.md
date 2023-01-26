@@ -8,6 +8,11 @@ And of course scripts to the contracts.
 
 # Try running the following commands to run the project
 
+## install packages
+```shell
+	npm install
+```
+
 ## to deploy the contracts:
 
 run in a terminal the following command:
